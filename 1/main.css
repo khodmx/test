@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+html,
+body {
+	font-family: "Raleway", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	scroll-behavior: smooth;
+    width:100%;
+    height:100%;
+}
+.i {
+  width: 200px;
+  height: 300px;
+  transform: translate(-50%, -50%);
+  position: absolute; 
+  top: 50%; 
+  left: 50%
+}
+  
